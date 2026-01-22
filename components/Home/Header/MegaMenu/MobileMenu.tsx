@@ -38,9 +38,9 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
           <div className="flex items-center justify-between mb-8">
             <Link href="/" className="transition-all duration-200">
               <Image
-                src="/images/logo.webp"
+                src="/images/obaidLogo.webp"
                 alt="Virtual Dive Studio Logo"
-                width={120}
+                width={100}
                 height={60}
                 className="brightness-0"
               />

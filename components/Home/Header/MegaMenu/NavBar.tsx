@@ -41,18 +41,18 @@ export const NavBar: React.FC = () => {
             {/* Logo */}
             <Link href="/" className="transition-all duration-200">
               <Image
-                src="/images/logo.webp"
+                src="/images/obaidLogo.webp"
                 alt="Virtual Dive Studio Logo"
-                width={210}
+                width={140}
                 height={60}
                 className={`hidden md:block ${
                   isScrolled || activeMenu ? "brightness-0" : "brightness-0"
                 }`}
               />
               <Image
-                src="/images/logo.webp"
+                src="/images/obaidLogo.webp"
                 alt="Virtual Dive Studio Logo"
-                width={160}
+                width={105}
                 height={60}
                 className="block md:hidden brightness-0"
               />
