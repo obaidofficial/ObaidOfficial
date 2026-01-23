@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Nav } from "@/components/Home/Navbar/NavigationMenu/Nav";
 import Provider from "@/components/Hoc/Provider";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const font = Inter({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
@@ -26,6 +27,7 @@ export default function RootLayout({
           <Nav />
           {children}
         </Provider>
+        <SpeedInsights />
       </body>
     </html>
   );
