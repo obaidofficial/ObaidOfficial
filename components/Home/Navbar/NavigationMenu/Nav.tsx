@@ -1,14 +1,14 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { NAVIGATION_DATA } from "../constants";
-import { MegaMenu } from "./MegaMenu";
-import { MobileMenu } from "./MobileMenu";
+import { MegaNav } from "./MegaNav";
+import { MobileNav } from "./MobileNav";
 import PrimaryButton from "@/components/Helper/PrimaryButton";
 import Image from "next/image";
 import Link from "next/link";
-// import ThemeToggler from "@/components/Helper/ThemeToggler";
+import ThemeToggler from "@/components/Helper/ThemeToggler";
 
-export const NavBar: React.FC = () => {
+export const Nav: React.FC = () => {
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileOpen, setIsMobileOpen] = useState(false);
@@ -31,7 +31,7 @@ export const NavBar: React.FC = () => {
       <div
         className={`fixed top-0 left-0 w-full z-1500 transition-all duration-500 ${
           isScrolled || activeMenu
-            ? "py-4 bg-white shadow-lg shadow-[#00000020]"
+            ? "py-4 bg-white/40 backdrop-blur-md dark:bg-black/40 shadow-lg shadow-[#00000020]"
             : "bg-transparent py-4"
         }`}
         onMouseLeave={() => setActiveMenu(null)}
@@ -46,7 +46,9 @@ export const NavBar: React.FC = () => {
                 width={140}
                 height={60}
                 className={`hidden md:block ${
-                  isScrolled || activeMenu ? "brightness-0" : "brightness-0"
+                  isScrolled || activeMenu
+                    ? "brightness-0 dark:invert-100"
+                    : "brightness-0 dark:invert-100"
                 }`}
               />
               <Image
@@ -54,7 +56,11 @@ export const NavBar: React.FC = () => {
                 alt="Virtual Dive Studio Logo"
                 width={105}
                 height={60}
-                className="block md:hidden brightness-0"
+                className={`block md:hidden ${
+                  isScrolled || activeMenu
+                    ? "brightness-0 dark:invert-100"
+                    : "brightness-0 dark:invert-100"
+                }`}
               />
             </Link>
 
@@ -72,8 +78,8 @@ export const NavBar: React.FC = () => {
                     href={item.href}
                     className={`px-5 py-2.5 flex items-center text-[14px] tracking-[0.05em] transition-all rounded-full font-bold uppercase ${
                       isScrolled || activeMenu
-                        ? "text-black hover:text-blue-500"
-                        : "text-black hover:text-blue-500"
+                        ? "text-black dark:text-white hover:text-blue-500"
+                        : "text-black dark:text-white hover:text-blue-500"
                     }`}
                   >
                     {item.label}
@@ -109,12 +115,12 @@ export const NavBar: React.FC = () => {
                 </Link>
               </div>
 
-              {/* <ThemeToggler /> */}
+              <ThemeToggler />
 
               {/* Mobile toggle */}
               <button
                 onClick={() => setIsMobileOpen(true)}
-                className="lg:hidden p-1 text-black"
+                className="lg:hidden p-1 text-black dark:text-white"
               >
                 <svg
                   className="w-6 h-6"
@@ -136,14 +142,11 @@ export const NavBar: React.FC = () => {
 
         {/* Full-width Mega Menu Container */}
         {activeItemData && (
-          <MegaMenu data={activeItemData} isOpen={!!activeMenu} />
+          <MegaNav data={activeItemData} isOpen={!!activeMenu} />
         )}
       </div>
 
-      <MobileMenu
-        isOpen={isMobileOpen}
-        onClose={() => setIsMobileOpen(false)}
-      />
+      <MobileNav isOpen={isMobileOpen} onClose={() => setIsMobileOpen(false)} />
     </>
   );
 };

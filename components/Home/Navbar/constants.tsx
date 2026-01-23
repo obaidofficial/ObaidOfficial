@@ -1,6 +1,5 @@
 import React from "react";
 import { MainNavItem } from "./types";
-import { BiSolidFile, BiSolidFolder, BiSolidPencil } from "react-icons/bi";
 
 export const NAVIGATION_DATA: MainNavItem[] = [
   {

@@ -4,12 +4,12 @@ import Image from "next/image";
 import Link from "next/link";
 import PrimaryButton from "@/components/Helper/PrimaryButton";
 
-interface MobileMenuProps {
+interface MobileNavProps {
   isOpen: boolean;
   onClose: () => void;
 }
 
-export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
+export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
   const [activeAccordion, setActiveAccordion] = useState<string | null>(null);
 
   const toggleAccordion = (label: string) => {
@@ -30,7 +30,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
 
       {/* Drawer */}
       <div
-        className={`fixed top-0 right-0 w-80 h-full bg-white z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
+        className={`fixed top-0 right-0 w-80 h-full bg-white dark:bg-[#252525] z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
           isOpen ? "translate-x-0" : "translate-x-full"
         } overflow-y-auto`}
       >
@@ -42,12 +42,12 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
                 alt="Virtual Dive Studio Logo"
                 width={100}
                 height={60}
-                className="brightness-0"
+                className="brightness-0 dark:invert-100"
               />
             </Link>
             <button
               onClick={onClose}
-              className="p-2 text-black rounded-full transition-colors"
+              className="p-2 text-black dark:text-white rounded-full transition-colors"
             >
               <svg
                 className="w-6 h-6"
@@ -72,7 +72,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
                   <div>
                     <button
                       onClick={() => toggleAccordion(item.label)}
-                      className="w-full flex items-center justify-between py-3 text-lg font-normal text-black border-b border-black/10"
+                      className="w-full flex items-center justify-between py-3 text-lg font-normal text-black border-b border-black/10 dark:text-white dark:border-white/10"
                     >
                       {item.label}
                       <svg
@@ -108,7 +108,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
                               <li key={sIdx}>
                                 <a
                                   href={sub.href}
-                                  className="text-black hover:text-[#d3f466] py-1 block"
+                                  className="text-black dark:text-white hover:text-[#d3f466] py-1 block"
                                   onClick={onClose}
                                 >
                                   {sub.label}
@@ -123,7 +123,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
                 ) : (
                   <a
                     href={item.href}
-                    className="block py-3 text-lg font-normal text-black border-b border-black/10"
+                    className="block py-3 text-lg font-normal text-black dark:text-white border-b border-black/10 dark:border-white/10"
                     onClick={onClose}
                   >
                     {item.label}

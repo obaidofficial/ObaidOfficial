@@ -1,7 +1,7 @@
 import { ThemeProvider } from "next-themes";
 import React, { ReactNode } from "react";
 
-const ThemeModes = ({ children }: { children: ReactNode }) => {
+const Provider = ({ children }: { children: ReactNode }) => {
   return (
     <ThemeProvider attribute="class" enableSystem defaultTheme="system">
       {children}
@@ -9,4 +9,4 @@ const ThemeModes = ({ children }: { children: ReactNode }) => {
   );
 };
 
-export default ThemeModes;
+export default Provider;

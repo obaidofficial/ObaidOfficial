@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
-import { NavBar } from "@/components/Home/Header/MegaMenu/NavBar";
+import { Nav } from "@/components/Home/Navbar/NavigationMenu/Nav";
+import Provider from "@/components/Hoc/Provider";
 
-const font = Roboto({
+const font = Inter({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
   subsets: ["latin"],
 });
@@ -19,9 +20,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning={true}>
-      <NavBar />
-      <body className={`${font.className} antialiased`}>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body className={`${font.className} antialiased`}>
+        <Provider>
+          <Nav />
+          {children}
+        </Provider>
+      </body>
     </html>
   );
 }

@@ -7,7 +7,7 @@ interface MegaMenuProps {
   isOpen: boolean;
 }
 
-export const MegaMenu: React.FC<MegaMenuProps> = ({ data, isOpen }) => {
+export const MegaNav: React.FC<MegaMenuProps> = ({ data, isOpen }) => {
   if (!isOpen) return null;
 
   return (
