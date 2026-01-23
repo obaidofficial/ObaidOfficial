@@ -100,7 +100,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
                     >
                       {item.megaMenu.columns.map((col, cIdx) => (
                         <div key={cIdx} className="mb-4 pl-4">
-                          <h4 className="text-xs font-bold text-[#d3f466] uppercase mb-2">
+                          <h4 className="text-xs font-bold text-[#4941e4] uppercase mb-2">
                             {col.title}
                           </h4>
                           <ul className="space-y-2">
@@ -108,7 +108,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
                               <li key={sIdx}>
                                 <a
                                   href={sub.href}
-                                  className="text-black dark:text-white hover:text-[#d3f466] py-1 block"
+                                  className="text-black dark:text-white hover:text-[#4941e4] py-1 block"
                                   onClick={onClose}
                                 >
                                   {sub.label}

@@ -4,6 +4,7 @@ import "./globals.css";
 import { Nav } from "@/components/Home/Navbar/NavigationMenu/Nav";
 import Provider from "@/components/Hoc/Provider";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import Footer from "@/components/Home/Footer/Footer";
 
 const font = Inter({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Provider>
           <Nav />
           {children}
+          <Footer />
         </Provider>
         <SpeedInsights />
       </body>

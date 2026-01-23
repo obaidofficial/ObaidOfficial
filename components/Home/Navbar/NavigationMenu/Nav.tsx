@@ -31,7 +31,7 @@ export const Nav: React.FC = () => {
       <div
         className={`fixed top-0 left-0 w-full z-1500 transition-all duration-500 ${
           isScrolled || activeMenu
-            ? "py-4 bg-white/40 backdrop-blur-md dark:bg-black/40 shadow-lg shadow-[#00000020]"
+            ? "py-4 bg-[#ffffff30] backdrop-blur-[10px] dark:bg-[#00000030] shadow-lg shadow-[#00000020] dark:shadow-[#ffffff20]"
             : "bg-transparent py-4"
         }`}
         onMouseLeave={() => setActiveMenu(null)}
@@ -78,8 +78,8 @@ export const Nav: React.FC = () => {
                     href={item.href}
                     className={`px-5 py-2.5 flex items-center text-[14px] tracking-[0.05em] transition-all rounded-full font-bold uppercase ${
                       isScrolled || activeMenu
-                        ? "text-black dark:text-white hover:text-blue-500"
-                        : "text-black dark:text-white hover:text-blue-500"
+                        ? "text-black dark:text-white hover:text-[#4941e4]"
+                        : "text-black dark:text-white hover:text-[#4941e4]"
                     }`}
                   >
                     {item.label}
@@ -87,7 +87,7 @@ export const Nav: React.FC = () => {
                       <svg
                         className={`ml-2 w-4 h-4 opacity-50 transition-transform duration-300 ${
                           activeMenu === item.label
-                            ? "rotate-180 hover:text-[#d3f466] opacity-100"
+                            ? "rotate-180 hover:text-[#4941e4] opacity-100"
                             : ""
                         }`}
                         fill="none"
