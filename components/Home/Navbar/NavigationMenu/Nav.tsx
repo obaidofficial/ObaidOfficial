@@ -29,14 +29,14 @@ export const Nav: React.FC = () => {
   return (
     <>
       <div
-        className={`fixed top-0 left-0 w-full z-1500 transition-all duration-500 ${
+        className={`fixed top-0 left-0 w-full z-1500 ${
           isScrolled || activeMenu
-            ? "py-4 bg-[#ffffff30] backdrop-blur-[10px] dark:bg-[#00000030] shadow-lg shadow-[#00000020] dark:shadow-[#ffffff20]"
+            ? "py-4 bg-white/80 border-gray-200 dark:bg-slate-900/80 dark:border-slate-800 border-b backdrop-blur-md"
             : "bg-transparent py-4"
         }`}
         onMouseLeave={() => setActiveMenu(null)}
       >
-        <div className="max-w-[94%] mx-auto px-2 sm:px-8 lg:px-12">
+        <div className="max-w-350 mx-auto px-2 sm:px-8 lg:px-12">
           <div className="flex items-center justify-between gap-10">
             {/* Logo */}
             <Link href="/" className="transition-all duration-200">
