@@ -30,7 +30,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
 
       {/* Drawer */}
       <div
-        className={`fixed top-0 right-0 w-80 h-full bg-white dark:bg-[#252525] z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
+        className={`fixed top-0 right-0 w-80 h-full bg-white dark:bg-slate-900 z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
           isOpen ? "translate-x-0" : "translate-x-full"
         } overflow-y-auto`}
       >
