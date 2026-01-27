@@ -30,24 +30,20 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
 
       {/* Drawer */}
       <div
-        className={`fixed top-0 right-0 w-80 h-full bg-white dark:bg-slate-900 z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
+        className={`fixed top-0 right-0 w-80 h-full bg-[#fcfcfc] dark:bg-[#161616] z-1700 shadow-2xl transform transition-transform duration-300 ease-in-out ${
           isOpen ? "translate-x-0" : "translate-x-full"
         } overflow-y-auto`}
       >
         <div className="p-6 flex flex-col h-full">
           <div className="flex items-center justify-between mb-8">
             <Link href="/" className="transition-all duration-200">
-              <Image
-                src="/images/obaidLogo.webp"
-                alt="Virtual Dive Studio Logo"
-                width={100}
-                height={60}
-                className="brightness-0 dark:invert-100"
-              />
+              <p className="font-bold text-[#161616] dark:text-[#fcfcfc] text-3xl tracking-[-2px]">
+                Obaid.
+              </p>
             </Link>
             <button
               onClick={onClose}
-              className="p-2 text-black dark:text-white rounded-full transition-colors"
+              className="p-2 text-[#161616] dark:text-[#fcfcfc] rounded-full transition-colors"
             >
               <svg
                 className="w-6 h-6"
@@ -72,7 +68,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
                   <div>
                     <button
                       onClick={() => toggleAccordion(item.label)}
-                      className="w-full flex items-center justify-between py-3 text-lg font-normal text-black border-b border-black/10 dark:text-white dark:border-white/10"
+                      className="w-full flex items-center justify-between py-3 text-lg font-normal text-[#161616] border-b border-gray-200 dark:text-[#fcfcfc] dark:border-[#747474]/50"
                     >
                       {item.label}
                       <svg
@@ -108,7 +104,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
                               <li key={sIdx}>
                                 <a
                                   href={sub.href}
-                                  className="text-black dark:text-white hover:text-[#4941e4] py-1 block"
+                                  className="text-[#161616] dark:text-[#fcfcfc] hover:text-black dark:hover:text-white py-1 block"
                                   onClick={onClose}
                                 >
                                   {sub.label}
@@ -123,7 +119,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
                 ) : (
                   <a
                     href={item.href}
-                    className="block py-3 text-lg font-normal text-black dark:text-white border-b border-black/10 dark:border-white/10"
+                    className="block py-3 text-lg font-normal text-[#161616] dark:text-[#fcfcfc] border-b border-gray-200 dark:border-[#747474]/50"
                     onClick={onClose}
                   >
                     {item.label}

@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Noto_Sans } from "next/font/google";
 import "./globals.css";
 import { Nav } from "@/components/Home/Navbar/NavigationMenu/Nav";
 import Provider from "@/components/Hoc/Provider";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Footer from "@/components/Home/Footer/Footer";
 
-const font = Inter({
+const font = Noto_Sans({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
   subsets: ["latin"],
 });
