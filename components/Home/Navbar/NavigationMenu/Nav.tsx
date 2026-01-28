@@ -30,8 +30,8 @@ export const Nav: React.FC = () => {
       <div
         className={`fixed top-0 left-0 w-full z-1500 ${
           isScrolled || activeMenu
-            ? "py-4 bg-white/60 border-gray-200 dark:bg-[#090909]/60 dark:border-[#747474]/50 border-dashed border-b backdrop-blur-sm"
-            : "bg-transparent py-4"
+            ? "py-3 bg-white/60 border-gray-200 dark:bg-[#090909]/60 dark:border-[#747474]/50 border-dashed border-b backdrop-blur-sm"
+            : "bg-transparent py-3"
         }`}
         onMouseLeave={() => setActiveMenu(null)}
       >
