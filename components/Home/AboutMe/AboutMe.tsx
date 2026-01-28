@@ -8,8 +8,17 @@ const AboutMe = () => {
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
       <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-15">
+          <div className="col-span-1 px-10">
+            <Image
+              src="/images/about/obaidImage.png"
+              width={1200}
+              height={1600}
+              alt="Obaid"
+              className="rounded-lg"
+            />
+          </div>
           <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">
-            <h2 className="text-6xl font-medium mb-4 text-[#161616] dark:text-[#fcfcfc] tracking-[-2px]">
+            <h2 className="text-[36px] md:text-[64px] font-medium mb-4 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-2px]">
               Hi, I am <span className="font-bold">Obaid Ullah</span>
             </h2>
             <p className="text-[16px] mb-4 md:mb-2 w-full md:text-[18px] leading-[1.5em] text-[#161616] dark:text-[#fcfcfc] font-thin">
@@ -35,15 +44,6 @@ const AboutMe = () => {
                 <PrimaryButton>Read More</PrimaryButton>
               </Link>
             </div>
-          </div>
-          <div className="col-span-1 px-10">
-            <Image
-              src="/images/about/obaidImage.png"
-              width={1200}
-              height={1600}
-              alt="Obaid"
-              className="rounded-lg grayscale-100 opacity-0"
-            />
           </div>
         </div>
       </div>
