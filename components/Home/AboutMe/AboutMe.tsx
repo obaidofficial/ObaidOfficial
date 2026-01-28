@@ -1,5 +1,4 @@
 import PrimaryButton from "@/components/Helper/PrimaryButton";
-import SecondaryButton from "@/components/Helper/SecondaryButton";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
@@ -31,12 +30,9 @@ const AboutMe = () => {
               which includes php, Tailwind CSS, Vanila CSS, HTML, JavaScript,
               TypeScript, etc.
             </p>
-            <div className="flex gap-4">
+            <div>
               <Link href="/about">
                 <PrimaryButton>Read More</PrimaryButton>
-              </Link>
-              <Link href="/about">
-                <SecondaryButton>Contact Us</SecondaryButton>
               </Link>
             </div>
           </div>

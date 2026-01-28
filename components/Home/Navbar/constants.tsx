@@ -24,6 +24,6 @@ export const NAVIGATION_DATA: MainNavItem[] = [
   },
   {
     label: "Contact",
-    href: "/contact",
+    href: "mailto:itsobaidofficial@gmail.com",
   },
 ];
