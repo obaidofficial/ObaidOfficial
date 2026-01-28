@@ -8,13 +8,13 @@ const AboutMe = () => {
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
       <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-15">
-          <div className="col-span-1 px-10">
+          <div className="col-span-1 px-0 pb:2 md:pb-0">
             <Image
               src="/images/about/obaidImage.png"
               width={1600}
               height={1600}
               alt="Obaid"
-              className="rounded-lg mb-3 md:mb-0"
+              className="rounded-lg"
             />
           </div>
           <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">
