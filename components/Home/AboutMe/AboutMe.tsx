@@ -11,10 +11,10 @@ const AboutMe = () => {
           <div className="col-span-1 px-10">
             <Image
               src="/images/about/obaidImage.png"
-              width={1200}
+              width={1600}
               height={1600}
               alt="Obaid"
-              className="rounded-lg"
+              className="rounded-lg mb-3 md:mb-0"
             />
           </div>
           <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">
