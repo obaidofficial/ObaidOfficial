@@ -12,7 +12,7 @@ const font = Geologica({
 });
 
 export const metadata: Metadata = {
-  title: "Obaid Official",
+  title: "Obaid.",
   description: "Professional Web Developer",
 };
 
