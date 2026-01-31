@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="relative w-full md:h-[40vh] h-[50vh] sm:h-[50vh] bg-[url('/images/hero/heroLight.webp')] dark:bg-[url('/images/hero/heroDark.webp')] bg-cover bg-no-repeat bg-center">
+    <div className="relative w-full md:h-[40vh] h-[40vh] sm:h-[40vh] bg-[url('/images/hero/heroLight.webp')] dark:bg-[url('/images/hero/heroDark.webp')] bg-cover bg-no-repeat bg-center">
       {/* Overlay */}
       <div className="absolute top-0 left-0 w-full h-full  bg-[radial-gradient(50%_50%_at_50%_50%,#fff0_0%,#fcfcfc_100%)] dark:bg-[radial-gradient(50%_50%_at_50%_50%,#0000_0%,#090909_100%)] "></div>
       {/* Text Content */}

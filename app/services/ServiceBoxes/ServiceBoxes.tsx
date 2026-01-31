@@ -13,7 +13,7 @@ import {
 const ServiceBoxes = () => {
   return (
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
-      <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
+      <div className="pt-6 md:-pt-16 w-[94%] md:w-325 mx-auto pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 lg:gap-6 mt-8">
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
             <BsBrush className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
