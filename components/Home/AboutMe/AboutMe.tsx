@@ -14,7 +14,7 @@ const AboutMe = () => {
               width={1600}
               height={1600}
               alt="Obaid"
-              className="rounded-lg"
+              className="rounded-lg opacity-0"
             />
           </div>
           <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">
@@ -28,10 +28,11 @@ const AboutMe = () => {
               efficient code.
             </p>
             <p className="text-[16px] mb-4 md:mb-2 w-full md:text-[18px] leading-[1.5em] text-[#161616] dark:text-[#fcfcfc] font-thin">
-              With strong expertise in HTML, CSS, JavaScript, Tailwind CSS, and
-              WordPress, I build high-performance websites that focus on user
-              experience, speed, and scalability. My goal is to create digital
-              products that not only look great but also deliver real results.
+              With strong expertise in HTML, CSS, JavaScript, TypeScript,
+              Tailwind CSS, Shopify, Framer, WIX, Square Space and WordPress, I
+              build high-performance websites that focus on user experience,
+              speed, and scalability. My goal is to create digital products that
+              not only look great but also deliver real results.
             </p>
             <p className="text-[16px] mb-4 md:mb-7 w-full md:text-[18px] leading-[1.5em] text-[#161616] dark:text-[#fcfcfc] font-thin">
               I’ve worked on multiple projects including business websites,
