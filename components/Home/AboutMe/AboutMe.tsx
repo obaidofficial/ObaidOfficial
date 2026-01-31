@@ -14,7 +14,7 @@ const AboutMe = () => {
               width={1600}
               height={1600}
               alt="Obaid"
-              className="rounded-lg opacity-0"
+              className="rounded-lg"
             />
           </div>
           <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">

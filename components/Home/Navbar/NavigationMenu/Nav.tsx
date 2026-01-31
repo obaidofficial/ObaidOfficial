@@ -39,7 +39,7 @@ export const Nav: React.FC = () => {
           <div className="flex items-center justify-between gap-10">
             {/* Logo */}
             <Link href="/" className="transition-all duration-200">
-              <p className="font-bold text-[#161616] dark:text-[#fcfcfc] text-4xl tracking-[-2px] opacity-0">
+              <p className="font-bold text-[#161616] dark:text-[#fcfcfc] text-4xl tracking-[-2px]">
                 Obaid.
               </p>
             </Link>
