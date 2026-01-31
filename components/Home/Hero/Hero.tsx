@@ -25,7 +25,7 @@ const Hero = () => {
               <Link href="/projects">
                 <PrimaryButton>Veiw Projects</PrimaryButton>
               </Link>
-              <Link href="mailto:itsobaidofficial@gmail.com">
+              <Link href="/contact">
                 <SecondaryButton>Contact Me</SecondaryButton>
               </Link>
             </div>

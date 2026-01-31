@@ -10,7 +10,7 @@ const Footer = () => {
             <h2 className="text-5xl font-bold mb-6 text-[#161616] dark:text-[#fcfcfc]">
               Let's build something iconic together.
             </h2>
-            <div className="flex flex-wrap items-center gap-2 w-[80%]">
+            <div className="flex flex-wrap items-center gap-2 w-full lg:w-[80%]">
               <Link
                 href="https://www.facebook.com/people/Obaid-Shah/100086097060363/"
                 target="_blank"
@@ -164,26 +164,26 @@ const Footer = () => {
               <div className="grid-cols-1">
                 <ul className="flex-col flex justify-center items-left gap-5.5">
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">Home</Link>
+                    <Link href="/">Home</Link>
                   </li>
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">About</Link>
+                    <Link href="/about">About</Link>
                   </li>
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">Projects</Link>
+                    <Link href="/projects">Projects</Link>
                   </li>
                 </ul>
               </div>
               <div className="grid-cols-1">
                 <ul className="flex-col flex justify-center items-left gap-5.5">
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">Services</Link>
+                    <Link href="/services">Services</Link>
                   </li>
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">Reviews</Link>
+                    <Link href="/reviews">Reviews</Link>
                   </li>
                   <li className="text-[#161616] hover:text-black font-semibold text-[16px] md:text-[16px] dark:text-[#fcfcfc] dark:hover:text-white cursor-pointer hover:translate-x-1 transition-all duration-300">
-                    <Link href="#">Contact</Link>
+                    <Link href="/contact">Contact</Link>
                   </li>
                 </ul>
               </div>

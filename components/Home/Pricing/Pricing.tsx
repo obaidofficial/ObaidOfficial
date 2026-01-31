@@ -17,9 +17,9 @@ const Pricing = () => {
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-3 lg:gap-2 mt-8">
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#f5f5f5] dark:bg-[#161616] flex flex-col justify-between">
             <div>
-              <h3 className="text-[24px] md:text-[38px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+              <h3 className="text-[32px] md:text-[40px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                 $89{" "}
-                <span className="text-[22px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
+                <span className="text-[18px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
                   /Project
                 </span>
               </h3>
@@ -65,19 +65,16 @@ const Pricing = () => {
                 </ul>
               </div>
             </div>
-            <Link
-              href="mailto:itsobaidofficial@gmail.com"
-              className="flex flex-col mt-8"
-            >
+            <Link href="/contact" className="flex flex-col mt-8">
               <PrimaryButton>Contact Now</PrimaryButton>
             </Link>
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#f5f5f5] dark:bg-[#161616] flex flex-col justify-between">
             <div>
-              <h3 className="text-[24px] md:text-[38px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+              <h3 className="text-[32px] md:text-[40px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                 $199{" "}
-                <span className="text-[22px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
+                <span className="text-[18px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
                   /Project
                 </span>
               </h3>
@@ -135,19 +132,16 @@ const Pricing = () => {
                 </ul>
               </div>
             </div>
-            <Link
-              href="mailto:itsobaidofficial@gmail.com"
-              className="flex flex-col mt-8"
-            >
+            <Link href="/contact" className="flex flex-col mt-8">
               <PrimaryButton>Contact Now</PrimaryButton>
             </Link>
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#f5f5f5] dark:bg-[#161616] flex flex-col justify-between">
             <div>
-              <h3 className="text-[24px] md:text-[38px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+              <h3 className="text-[32px] md:text-[40px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                 $329{" "}
-                <span className="text-[22px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
+                <span className="text-[18px] font-light text-[#161616]/50 dark:text-[#fcfcfc]/50">
                   /Project
                 </span>
               </h3>
@@ -213,17 +207,14 @@ const Pricing = () => {
                 </ul>
               </div>
             </div>
-            <Link
-              href="mailto:itsobaidofficial@gmail.com"
-              className="flex flex-col mt-8"
-            >
+            <Link href="/contact" className="flex flex-col mt-8">
               <PrimaryButton>Contact Now</PrimaryButton>
             </Link>
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#f5f5f5] dark:bg-[#161616] flex flex-col justify-between">
             <div>
-              <h3 className="text-[24px] md:text-[38px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+              <h3 className="text-[32px] md:text-[40px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                 Custom
               </h3>
               <p className="font-thin leading-[1.5em] text-[15px]">
@@ -292,10 +283,7 @@ const Pricing = () => {
                 </ul>
               </div>
             </div>
-            <Link
-              href="mailto:itsobaidofficial@gmail.com"
-              className="flex flex-col mt-8"
-            >
+            <Link href="/contact" className="flex flex-col mt-8">
               <PrimaryButton>Contact Now</PrimaryButton>
             </Link>
           </div>
