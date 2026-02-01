@@ -14,7 +14,7 @@ const Pricing = () => {
           growing brands who want powerful, high-performance websites without
           hidden costs or compromises.
         </p>
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-3 lg:gap-2 mt-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-2 mt-8">
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#f5f5f5] dark:bg-[#161616] flex flex-col justify-between">
             <div>
               <h3 className="text-[32px] md:text-[40px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">

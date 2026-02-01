@@ -22,7 +22,7 @@ const ClientReviews = () => {
                   />
                 </div>
                 <div>
-                  <h3 className="text-[24px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                     Husnain Malik
                   </h3>
                   <p className="font-thin leading-[1.5em] text-[14px] text-[#161616] dark:text-[#fcfcfc] mt-0.5">
@@ -59,7 +59,7 @@ const ClientReviews = () => {
                   />
                 </div>
                 <div>
-                  <h3 className="text-[24px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                     Muzammil Ahmad
                   </h3>
                   <p className="font-thin leading-[1.5em] text-[14px] text-[#161616] dark:text-[#fcfcfc] mt-0.5">
@@ -96,7 +96,7 @@ const ClientReviews = () => {
                   />
                 </div>
                 <div>
-                  <h3 className="text-[24px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
                     Ali Ehtisham
                   </h3>
                   <p className="font-thin leading-[1.5em] text-[14px] text-[#161616] dark:text-[#fcfcfc] mt-0.5">

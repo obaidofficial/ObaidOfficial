@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="pt-16 w-[94%] md:w-325 mx-auto pb-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-15">
           <div className="lg:col-span-1 p-1 flex flex-col items-left">
-            <h2 className="text-5xl font-bold mb-6 text-[#161616] dark:text-[#fcfcfc]">
+            <h2 className="text-[34px] md:text-[48px] leading-[1.1em] font-bold mb-6 text-[#161616] dark:text-[#fcfcfc]">
               Let's build something iconic together.
             </h2>
             <div className="flex flex-wrap items-center gap-2 w-full lg:w-[80%]">

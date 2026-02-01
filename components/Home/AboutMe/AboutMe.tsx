@@ -8,7 +8,7 @@ const AboutMe = () => {
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
       <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-15">
-          <div className="col-span-1 px-0 pb:2 md:pb-0">
+          <div className="col-span-1 md:px-0 pb:4 md:pb-0 px-3">
             <Image
               src="/images/about/obaidImage.png"
               width={1600}
@@ -17,7 +17,7 @@ const AboutMe = () => {
               className="rounded-lg"
             />
           </div>
-          <div className="lg:col-span-1 p-1 flex flex-col items-left justify-center">
+          <div className="lg:col-span-1 flex flex-col items-left justify-center p-2 md:p-1.5">
             <h2 className="text-[36px] md:text-[60px] font-medium mb-4 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               About Me
             </h2>
