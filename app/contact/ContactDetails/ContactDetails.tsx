@@ -102,7 +102,7 @@ const ContactDetails = () => {
                   Github
                 </span>
               </Link>
-              <Link
+              {/* <Link
                 href="https://www.instagram.com/obaid_ullah312"
                 target="_blank"
               >
@@ -157,7 +157,7 @@ const ContactDetails = () => {
                   </svg>
                   YouTube
                 </span>
-              </Link>
+              </Link> */}
               <Link href="mailto:itsobaidofficial@gmail.com">
                 <span className="flex text-sm items-center gap-2 text-[#161616] dark:text-[#fcfcfc] bg-[#fcfcfc] hover:bg-gray-100 dark:bg-[#ffffff26] dark:hover:bg-[#ffffff20] rounded-lg px-4 py-2 font-medium border border-[#a1a1a1]/50 dark:border-[#ffffff26]">
                   <svg
