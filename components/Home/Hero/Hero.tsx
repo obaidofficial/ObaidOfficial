@@ -11,7 +11,7 @@ const Hero = () => {
       {/* Text Content */}
       <div className="absolute z-100 w-full h-full top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
         <div className="flex items-center justify-center flex-col w-full h-full">
-          <div className="md:w-325 w-[92%] text-center mx-auto">
+          <div className="md:w-300 lg:w-325 w-[92%] text-center mx-auto">
             <h1 className="text-[42px] mb-4 md:text-[54px] md:mb-5 lg:text-[80px] leading-[1.1em] text-[#161616] dark:text-[#fcfcfc] font-medium tracking-[-2px] uppercase">
               Turning Ideas Into Powerful Digital Products
             </h1>
