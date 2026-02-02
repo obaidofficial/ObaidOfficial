@@ -59,7 +59,7 @@ const Testimonials = () => {
               <div className="flex gap-6">
                 <div>
                   <Image
-                    src="/images/testimonials/Muzammil.webp"
+                    src="/images/testimonials/MuzammilA.webp"
                     alt="Client"
                     width={65}
                     height={65}
