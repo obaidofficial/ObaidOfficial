@@ -130,7 +130,11 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
           </nav>
 
           <div className="mt-8 space-y-3">
-            <Link href="/contact" className="w-full flex flex-col">
+            <Link
+              href="/contact"
+              className="w-full flex flex-col"
+              onClick={onClose}
+            >
               <PrimaryButton>Hire Me Now</PrimaryButton>
             </Link>
           </div>

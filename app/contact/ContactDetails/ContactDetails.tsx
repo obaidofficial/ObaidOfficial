@@ -8,7 +8,7 @@ const ContactDetails = () => {
       <div className="pt-6 md:pt-16 w-[94%] md:w-325 mx-auto pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-11 gap-3 lg:gap-6">
           <div className="lg:col-span-5 p-1 flex flex-col items-left">
-            <h2 className="text-5xl font-bold mb-4 text-[#161616] dark:text-[#fcfcfc]">
+            <h2 className="text-[34px] md:text-[48px] leading-[1.1em] font-medium mb-4 text-[#161616] dark:text-[#fcfcfc]">
               Let's build something remarkable together.
             </h2>
             <p className="font-thin leading-[1.5em] text-[18px] text-[#161616] dark:text-[#fcfcfc]">

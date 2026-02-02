@@ -4,10 +4,23 @@ import React from "react";
 import {
   BsBag,
   BsBrush,
+  BsBug,
+  BsCash,
+  BsCashCoin,
+  BsCashStack,
   BsCloud,
   BsCodeSlash,
   BsDatabase,
+  BsFile,
+  BsFolder,
+  BsFolder2Open,
+  BsHandIndex,
+  BsHeadset,
+  BsPaypal,
   BsPlug,
+  BsRocket,
+  BsRocketTakeoff,
+  BsStripe,
 } from "react-icons/bs";
 
 const ServiceBoxes = () => {
@@ -88,7 +101,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsBrush className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsBug className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               Bug Fixing
             </h3>
@@ -100,7 +113,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsCodeSlash className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsRocketTakeoff className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               Speed Optimization
             </h3>
@@ -112,7 +125,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsPlug className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsHandIndex className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               GSAP Animation
             </h3>
@@ -124,7 +137,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsCloud className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsHeadset className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               Support
             </h3>
@@ -136,7 +149,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsBag className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsCashCoin className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               Gateway Integration
             </h3>
@@ -148,7 +161,7 @@ const ServiceBoxes = () => {
           </div>
 
           <div className="col-span-1 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
-            <BsDatabase className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
+            <BsFolder2Open className="w-12 h-12 text-[#161616] dark:text-[#fcfcfc] bg-[#f5f5f5] dark:bg-[#fcfcfc]/10 group-hover:text-[#fcfcfc] group-hover:bg-[#161616] dark:group-hover:text-[#161616] dark:group-hover:bg-[#fcfcfc]/90 transition-all duration-300 mb-15 p-3 rounded-lg" />
             <h3 className="text-[24px] md:text-[28px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
               Plugin Creation
             </h3>
