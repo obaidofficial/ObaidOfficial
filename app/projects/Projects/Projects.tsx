@@ -99,6 +99,121 @@ const Projects = () => {
               </div>
             </div>
           </div>
+
+          <div className="col-span-1 border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group flex flex-col justify-between">
+            <div>
+              <div>
+                <Image
+                  src="/images/projects/BArtisanal.webp"
+                  alt="Client"
+                  width={1600}
+                  height={1600}
+                  className="rounded-t-lg"
+                />
+              </div>
+              <div className=" px-6 py-4">
+                <h3 className="text-[20px] md:text-[24px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  Bakhshi Artisanal
+                </h3>
+                <p className="font-thin leading-[1.5em] text-[16px] text-[#161616] dark:text-[#fcfcfc] mt-1.5">
+                  A Shopify Store, that sell winter garments like Hoodies, Coat
+                  & Jackets.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-span-1 border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group flex flex-col justify-between">
+            <div>
+              <div>
+                <Image
+                  src="/images/projects/PElora.webp"
+                  alt="Client"
+                  width={1600}
+                  height={1600}
+                  className="rounded-t-lg"
+                />
+              </div>
+              <div className=" px-6 py-4">
+                <h3 className="text-[20px] md:text-[24px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  Premium Elora
+                </h3>
+                <p className="font-thin leading-[1.5em] text-[16px] text-[#161616] dark:text-[#fcfcfc] mt-1.5">
+                  A Shopify Store, that sell only Premium garments for female &
+                  their Accessories.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-span-1 border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group flex flex-col justify-between">
+            <div>
+              <div>
+                <Image
+                  src="/images/projects/CnA.webp"
+                  alt="Client"
+                  width={1600}
+                  height={1600}
+                  className="rounded-t-lg"
+                />
+              </div>
+              <div className=" px-6 py-4">
+                <h3 className="text-[20px] md:text-[24px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  Candy 'n Art
+                </h3>
+                <p className="font-thin leading-[1.5em] text-[16px] text-[#161616] dark:text-[#fcfcfc] mt-1.5">
+                  A Qatar Brand that sells Cotton Candy on different platforms,
+                  their Art is amazing.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-span-1 border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group flex flex-col justify-between">
+            <div>
+              <div>
+                <Image
+                  src="/images/projects/DoM.webp"
+                  alt="Client"
+                  width={1600}
+                  height={1600}
+                  className="rounded-t-lg"
+                />
+              </div>
+              <div className=" px-6 py-4">
+                <h3 className="text-[20px] md:text-[24px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  Digital One Marketing
+                </h3>
+                <p className="font-thin leading-[1.5em] text-[16px] text-[#161616] dark:text-[#fcfcfc] mt-1.5">
+                  A marketing website that provides Web Development, Marketing
+                  and more services.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-span-1 border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group flex flex-col justify-between">
+            <div>
+              <div>
+                <Image
+                  src="/images/projects/HBE.webp"
+                  alt="Client"
+                  width={1600}
+                  height={1600}
+                  className="rounded-t-lg"
+                />
+              </div>
+              <div className=" px-6 py-4">
+                <h3 className="text-[20px] md:text-[24px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px]">
+                  Humming Bird
+                </h3>
+                <p className="font-thin leading-[1.5em] text-[16px] text-[#161616] dark:text-[#fcfcfc] mt-1.5">
+                  A Child Care Center, provide safe & supportive environment
+                  ensures each child feels valued.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="mt-8 text-center">
