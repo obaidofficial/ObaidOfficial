@@ -6,6 +6,7 @@ import Services from "./Services/Services";
 import Testimonials from "./Testimonials/Testimonials";
 import MyProjects from "./MyProjects/MyProjects";
 import Clients from "./Clients/Clients";
+import CTA from "../Helper/CTA";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <AboutMe />
       <MyProjects />
       <Services />
+      <CTA />
       <Clients />
       {/* <Pricing /> */}
       <Testimonials />

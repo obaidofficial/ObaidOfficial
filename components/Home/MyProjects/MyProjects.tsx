@@ -6,7 +6,7 @@ import React from "react";
 const MyProjects = () => {
   return (
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
-      <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
+      <div className="pt-8 w-[94%] md:w-325 mx-auto pb-8">
         <h2 className="text-[32px] md:text-[50px] font-medium mb-2 text-[#161616] dark:text-[#fcfcfc] leading-[1.1em] tracking-[-1px] text-center">
           My Projects
         </h2>
