@@ -1,27 +1,27 @@
 export const projectDetails = [
   {
-    id: 1,
+    id: 9,
     image: "/images/projects/WTF.webp",
     title: "Wear To Fit",
     shortDescription:
       "A Shopify Store, that sell garments like Hoodies, T-Shirts, Trousers and much more.",
   },
   {
-    id: 2,
+    id: 8,
     image: "/images/projects/TAG.webp",
     title: "The Arabic Guide",
     shortDescription:
       "A LMS website, Using WordPress CMS to Deliver the Arabic Lectures to understand Holy Quran.",
   },
   {
-    id: 3,
+    id: 7,
     image: "/images/projects/LAM.webp",
     title: "Look At Me Marketing",
     shortDescription:
       "A Digital Marketing Agency, provides Services like Web Development, Marketing and much more.",
   },
   {
-    id: 4,
+    id: 6,
     image: "/images/projects/NAK.webp",
     title: "Naser Al Kashmiri",
     shortDescription:
@@ -35,28 +35,28 @@ export const projectDetails = [
       "A Shopify Store, that sell winter garments like Hoodies, Coat & Jackets.",
   },
   {
-    id: 6,
+    id: 4,
     image: "/images/projects/PElora.webp",
     title: "Premium Elora",
     shortDescription:
       "A Shopify Store, that sell only Premium garments for female & their Accessories.",
   },
   {
-    id: 7,
+    id: 3,
     image: "/images/projects/CnA.webp",
     title: "Candy 'n Art",
     shortDescription:
       "A Shopify Store, that sell garments like Hoodies, T-Shirts, Trousers and much more.",
   },
   {
-    id: 8,
+    id: 2,
     image: "/images/projects/DoM.webp",
     title: "Digital One Marketing",
     shortDescription:
       "A marketing website that provides Web Development, Marketing and more services.",
   },
   {
-    id: 9,
+    id: 1,
     image: "/images/projects/HBE.webp",
     title: "Humming Bird",
     shortDescription:
