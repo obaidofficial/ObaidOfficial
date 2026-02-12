@@ -7,7 +7,7 @@ const CTA = () => {
   return (
     <div className="bg-[#fcfcfc] dark:bg-[#090909]">
       <div className="pt-16 w-[94%] md:w-325 mx-auto pb-16">
-        <div className="grid grid-cols-1 lg:grid-cols-7 gap-1 lg:gap-6 mt-8 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
+        <div className="grid grid-cols-1 lg:grid-cols-7 gap-1 lg:gap-6 mt-8 border rounded-xl border-[#747474]/20 p-6 bg-[#ffffff] dark:bg-[#161616] shadow-sm dark:shadow-[#fcfcfc]/5 transition-all duration-300 group">
           <div className="col-span-1 md:col-span-5 p-2 md:p-6 flex items-center md:justify-start justify-center">
             <div>
               <h3 className="text-[30px] md:text-[44px] font-medium text-[#161616] dark:text-[#fcfcfc] leading-[1.2em] tracking-[-2px] md:mb-4 mb-2 text-center md:text-left">

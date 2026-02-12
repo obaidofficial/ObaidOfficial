@@ -36,7 +36,11 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
       >
         <div className="p-6 flex flex-col h-full">
           <div className="flex items-center justify-between mb-8">
-            <Link href="/" className="transition-all duration-200">
+            <Link
+              href="/"
+              className="transition-all duration-200"
+              onClick={onClose}
+            >
               <p className="font-bold text-[#161616] dark:text-[#fcfcfc] text-3xl tracking-[-2px]">
                 Obaid.
               </p>
