@@ -42,7 +42,7 @@ export const reviewDetails = [
     brand: "Dev Bench",
     role: "CEO",
     review:
-      "Very reliable and skilled developer. All issues were fixed quickly, and the site speed improved noticeably. I’m extremely satisfied with the quality of work delivered.",
+      "Great developer to work with. He understood our requirements quickly and delivered a modern, fast website right on schedule. Communication was smooth throughout the project.",
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ export const reviewDetails = [
     brand: "Ambrint",
     role: "CEO",
     review:
-      "Very reliable and skilled developer. All issues were fixed quickly, and the site speed improved noticeably. I’m extremely satisfied with the quality of work delivered.",
+      "Redesigned our website and noticeably improved performance. The site looks cleaner, loads faster, and works perfectly on mobile. Very professional and reliable.",
   },
   {
     id: 1,
