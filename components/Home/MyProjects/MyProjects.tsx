@@ -20,8 +20,88 @@ const MyProjects = () => {
             {/* <Link href={`portfolio/${project.link}`}> */}
             <div className="relative h-64 overflow-hidden">
               <img
-                src="/images/projects/WTF.webp"
-                alt="Wear to Fit"
+                src="/images/projects/h2o.webp"
+                alt="H2O Labs"
+                className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+              />
+              <div className="absolute inset-0 bg-linear-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
+                <div className="flex flex-wrap gap-2">
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    Elementor
+                  </span>
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    Elementor Pro
+                  </span>
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    CF7
+                  </span>
+                </div>
+              </div>
+            </div>
+            {/* </Link> */}
+
+            <div className="p-6 flex flex-col grow">
+              {/* <div className="mb-2">
+          <span className="text-xs font-bold text-[#ef41de] uppercase tracking-widest">
+            {project.category}
+          </span>
+        </div> */}
+              <h3 className="text-xl font-medium text-[#161616] dark:text-[#fcfcfc] mb-2">
+                H2O Labs
+              </h3>
+              <p className="text-[#161616] dark:text-[#fcfcfc] font-thin text-sm leading-relaxed grow">
+                A global leader in AI, Data Industry, Cloud Technologies, and
+                Process Automation, delivering powerful solutions.
+              </p>
+            </div>
+          </div>
+
+          <div className="group relative flex flex-col border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 overflow-hidden">
+            {/* <Link href={`portfolio/${project.link}`}> */}
+            <div className="relative h-64 overflow-hidden">
+              <img
+                src="/images/projects/verticle.webp"
+                alt="The Verticle"
+                className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+              />
+              <div className="absolute inset-0 bg-linear-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
+                <div className="flex flex-wrap gap-2">
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    Framer
+                  </span>
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    Workspace
+                  </span>
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
+                    Landing
+                  </span>
+                </div>
+              </div>
+            </div>
+            {/* </Link> */}
+
+            <div className="p-6 flex flex-col grow">
+              {/* <div className="mb-2">
+          <span className="text-xs font-bold text-[#ef41de] uppercase tracking-widest">
+            {project.category}
+          </span>
+        </div> */}
+              <h3 className="text-xl font-medium text-[#161616] dark:text-[#fcfcfc] mb-2">
+                The Verticle
+              </h3>
+              <p className="text-[#161616] dark:text-[#fcfcfc] font-thin text-sm leading-relaxed grow">
+                The Vertical specialize in crafting modern buildings that
+                elevate the skyline and enhance the communities.
+              </p>
+            </div>
+          </div>
+
+          <div className="group relative flex flex-col border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 overflow-hidden">
+            {/* <Link href={`portfolio/${project.link}`}> */}
+            <div className="relative h-64 overflow-hidden">
+              <img
+                src="/images/projects/BArtisanal.webp"
+                alt="Bakhshi Artisanal"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-linear-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
@@ -44,88 +124,11 @@ const MyProjects = () => {
           </span>
         </div> */}
               <h3 className="text-xl font-medium text-[#161616] dark:text-[#fcfcfc] mb-2">
-                Wear To Fit
+                Bakhshi Artisanal
               </h3>
               <p className="text-[#161616] dark:text-[#fcfcfc] font-thin text-sm leading-relaxed grow">
-                A Shopify Store, that sell garments like Hoodies, T-Shirts,
-                Trousers and much more.
-              </p>
-            </div>
-          </div>
-
-          <div className="group relative flex flex-col border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 overflow-hidden">
-            {/* <Link href={`portfolio/${project.link}`}> */}
-            <div className="relative h-64 overflow-hidden">
-              <img
-                src="/images/projects/TAG.webp"
-                alt="The Arabic Guide"
-                className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
-              />
-              <div className="absolute inset-0 bg-linear-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                <div className="flex flex-wrap gap-2">
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
-                    Elementor
-                  </span>
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
-                    Woo Commerce
-                  </span>
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
-                    Tutor LMS
-                  </span>
-                </div>
-              </div>
-            </div>
-            {/* </Link> */}
-
-            <div className="p-6 flex flex-col grow">
-              {/* <div className="mb-2">
-          <span className="text-xs font-bold text-[#ef41de] uppercase tracking-widest">
-            {project.category}
-          </span>
-        </div> */}
-              <h3 className="text-xl font-medium text-[#161616] dark:text-[#fcfcfc] mb-2">
-                The Arabic Guide
-              </h3>
-              <p className="text-[#161616] dark:text-[#fcfcfc] font-thin text-sm leading-relaxed grow">
-                A LMS website, Using WordPress CMS to Deliver the Islamic
-                Lectures to understand Holy Quran.
-              </p>
-            </div>
-          </div>
-
-          <div className="group relative flex flex-col border rounded-xl border-[#747474]/20 bg-[#ffffff] dark:bg-[#161616] shadow-sm hover:shadow-lg dark:hover:shadow-[#fcfcfc]/8 dark:shadow-[#fcfcfc]/5 transition-all duration-300 overflow-hidden">
-            {/* <Link href={`portfolio/${project.link}`}> */}
-            <div className="relative h-64 overflow-hidden">
-              <img
-                src="/images/projects/LAM.webp"
-                alt="Look At Me Marketing"
-                className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
-              />
-              <div className="absolute inset-0 bg-linear-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                <div className="flex flex-wrap gap-2">
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
-                    Elementor
-                  </span>
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-white bg-white/20 backdrop-blur-md px-2 py-1 rounded">
-                    WP Forms
-                  </span>
-                </div>
-              </div>
-            </div>
-            {/* </Link> */}
-
-            <div className="p-6 flex flex-col grow">
-              {/* <div className="mb-2">
-          <span className="text-xs font-bold text-[#ef41de] uppercase tracking-widest">
-            {project.category}
-          </span>
-        </div> */}
-              <h3 className="text-xl font-medium text-[#161616] dark:text-[#fcfcfc] mb-2">
-                Look At Me Marketing
-              </h3>
-              <p className="text-[#161616] dark:text-[#fcfcfc] font-thin text-sm leading-relaxed grow">
-                A Digital Marketing Agency, provides Services like Web
-                Development, Marketing and much more.
+                A Shopify Store, that sell winter garments like Hoodies, Coat &
+                Jackets.
               </p>
             </div>
           </div>

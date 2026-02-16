@@ -3,6 +3,15 @@ import { Project, Category } from "./types";
 export const PROJECTS: Project[] = [
   // WordPress
   {
+    id: "wordpress7",
+    title: "H2O Labs",
+    description:
+      "A global leader in AI, Data Industry, Cloud Technologies, and Process Automation, delivering powerful solutions.",
+    image: "/images/projects/h2o.webp",
+    category: "WordPress",
+    tags: ["Elementor", "Elementor Pro", "CF7"],
+  },
+  {
     id: "wordpress6",
     title: "The Arabic Guide",
     description:
@@ -34,7 +43,7 @@ export const PROJECTS: Project[] = [
     title: "Candy 'n Art",
     description:
       "A Shopify Store, that sell garments like Hoodies, T-Shirts, Trousers and much more.",
-    image: "/images/projects/CnA.webp",
+    image: "/images/projects/candynart.webp",
     category: "WordPress",
     tags: ["Elementor", "WP Forms", "Elementor Pro"],
   },
