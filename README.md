@@ -18,6 +18,14 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 </a>
 
+<a href="mailto:your@email.com">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
+</a>
+
 ### 🎨 Designing & Editing
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
 
