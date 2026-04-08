@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there, I'm Obaid 👋
 
-## Getting Started
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-First, run the development server:
+I'm a passionate Web Developer who loves building modern and scalable applications 🚀
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 My Skills
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
-## Learn More
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
-To learn more about Next.js, take a look at the following resources:
+### 🎨 Designing & Editing
+![Design](https://skillicons.dev/icons?i=ps,figma)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Connect with Me
 
-## Deploy on Vercel
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your@email.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
