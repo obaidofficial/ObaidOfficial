@@ -14,6 +14,9 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+<a href="mailto:your@email.com">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
+</a>
 
 ### 🎨 Designing & Editing
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
@@ -33,11 +36,3 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 <a href="mailto:your@email.com">
   <img src="https://cdn.simpleicons.org/gmail" width="40" />
 </a>
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
