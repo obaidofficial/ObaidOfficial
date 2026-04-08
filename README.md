@@ -27,7 +27,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 </a>
 
 <a href="https://yourwebsite.com">
-  <img src="https://cdn.simpleicons.org/googlechrome" width="40" />
+  <img src="https://cdn.simpleicons.org/globe" width="40" />
 </a>
 
 <a href="mailto:your@email.com">
