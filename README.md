@@ -13,7 +13,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools]
 <a href="mailto:your@email.com">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 </a>
