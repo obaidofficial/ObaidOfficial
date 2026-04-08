@@ -16,7 +16,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ### 🎨 Designing & Editing
-![Design](https://skillicons.dev/icons?i=ps,figma,ai,pp)
+![Design](https://skillicons.dev/icons?i=ps,figma,ai,ppro)
 
 ---
 
