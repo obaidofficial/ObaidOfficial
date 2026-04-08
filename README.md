@@ -22,9 +22,17 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=li)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your@email.com)
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://cdn.simpleicons.org/linkedin" width="40" />
+</a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://cdn.simpleicons.org/googlechrome" width="40" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="40" />
+</a>
 
 ---
 
