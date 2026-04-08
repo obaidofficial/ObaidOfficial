@@ -1,7 +1,5 @@
 # Hi there, I'm Obaid 👋
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 I'm a passionate Web Developer who loves building modern and scalable applications 🚀
 
 ---
@@ -9,16 +7,16 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 ## 💻 My Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ### 🎨 Designing & Editing
-![Design](https://skillicons.dev/icons?i=ps,figma)
+![Design](https://skillicons.dev/icons?i=ps,figma,ai,pp)
 
 ---
 
