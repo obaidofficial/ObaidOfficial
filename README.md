@@ -62,6 +62,8 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/framer.png" width="40" />
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wix.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/bigcommerce.png" width="40" />
 </div>
 
 ### Designing & Editing
