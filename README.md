@@ -33,5 +33,5 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 ## 🌐 Connect with Me
 
 <a href="mailto:itsobaidofficial@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="40" />
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/gmail.png" width="40" />
 </a>
