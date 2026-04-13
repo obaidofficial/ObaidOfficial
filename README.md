@@ -7,13 +7,15 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 ## 💻 My Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
+
+(https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+
+(https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
 ### Tools
-![Tools]
+
 <a href="mailto:your@email.com">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 </a>
@@ -27,7 +29,8 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 </a>
 
 ### 🎨 Designing & Editing
-![Design](https://skillicons.dev/icons?i=ps,figma,ai)
+
+(https://skillicons.dev/icons?i=ps,figma,ai)
 
 ---
 
