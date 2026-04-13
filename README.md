@@ -24,6 +24,20 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
 </div>
 
+### Platforms
+
+<div style="display: flex; gap: 5px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wp.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/shopify.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/squarespace.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/framer.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wix.png" width="40" />
+</div>
+
 ### 🎨 Designing & Editing
 
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
