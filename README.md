@@ -16,15 +16,15 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Tools
 
-<a href="mailto:your@email.com">
+<a href="mailto:your@email.com" style="text-decoration: none;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:your@email.com" style="text-decoration: none;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:your@email.com" style="text-decoration: none;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
 </a>
 
@@ -36,14 +36,14 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/yourusername" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/linkedin" width="40" />
 </a>
 
-<a href="https://yourwebsite.com">
+<a href="https://yourwebsite.com" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/globe" width="40" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:your@email.com" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/gmail" width="40" />
 </a>
