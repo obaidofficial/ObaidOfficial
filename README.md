@@ -40,6 +40,16 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/brackets.png" width="40" />
 </div>
 
+### AI Tools
+
+<div style="display: flex; gap: 15px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/googleai.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/chatgpt.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/copilot.png" width="40" />
+</div>
+
 ### Platforms
 
 <div style="display: flex; gap: 15px;">
@@ -54,7 +64,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wix.png" width="40" />
 </div>
 
-### 🎨 Designing & Editing
+### Designing & Editing
 
 <div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/figma.png" width="40" />
@@ -68,7 +78,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ---
 
-## 🌐 Connect with Me
+### Connect with Me
 
 <div style="display: flex; gap: 15px;">
   <a href="mailto:itsobaidofficial@gmail.com">
