@@ -34,6 +34,10 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 <div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/sublime.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/brackets.png" width="40" />
 </div>
 
 ### Platforms
