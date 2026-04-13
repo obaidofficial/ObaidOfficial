@@ -8,11 +8,11 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Languages
 
-(https://skillicons.dev/icons?i=js,ts,html,css)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks
 
-(https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
 ### Tools
 
@@ -30,7 +30,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### 🎨 Designing & Editing
 
-(https://skillicons.dev/icons?i=ps,figma,ai)
+![Design](https://skillicons.dev/icons?i=ps,figma,ai)
 
 ---
 
