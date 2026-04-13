@@ -23,7 +23,8 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
 </div>
-### 🎨 Designing & Editing
+
+## 🎨 Designing & Editing
 
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
 
