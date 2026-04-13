@@ -8,6 +8,14 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Languages
 
+<div style="display: flex; gap: 5px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
+</div>
+
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks
@@ -16,7 +24,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Tools
 
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
@@ -26,7 +34,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Platforms
 
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wp.png" width="40" />
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/shopify.png" width="40" />
