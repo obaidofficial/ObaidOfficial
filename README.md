@@ -24,7 +24,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
 </div>
 
-## 🎨 Designing & Editing
+### 🎨 Designing & Editing
 
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
 
@@ -32,14 +32,6 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/yourusername" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/linkedin" width="40" />
-</a>
-
-<a href="https://yourwebsite.com" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/globe" width="40" />
-</a>
-
-<a href="mailto:your@email.com" style="text-decoration: none;">
+<a href="mailto:itsobaidofficial@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail" width="40" />
 </a>
