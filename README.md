@@ -8,28 +8,32 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Languages
 
-<div style="display: flex; gap: 5px;">
-  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
+<div style="display: flex; gap: 15px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/html.png" width="40" />
 
-  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/css-3.png" width="40" />
 
-  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/js.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/ts.png" width="40" />
 </div>
-
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+<div style="display: flex; gap: 15px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/react.png" width="40" />
 
-### Tools
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/tailwind.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/next.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/bootstrap.png" width="40" />
+</div>
+
+### Coding Tools
 
 <div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
-
-  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
-
-  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
 </div>
 
 ### Platforms
@@ -48,12 +52,30 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### 🎨 Designing & Editing
 
-![Design](https://skillicons.dev/icons?i=ps,figma,ai)
+<div style="display: flex; gap: 15px;">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/figma.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premierpro.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/illustrator.png" width="40" />
+
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="mailto:itsobaidofficial@gmail.com">
+<div style="display: flex; gap: 15px;">
+  <a href="mailto:itsobaidofficial@gmail.com">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/gmail.png" width="40" />
 </a>
+
+<a href="https://www.linkedin.com/in/obaid-ullah-1aa103353" target="_blank">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/linkedin.png" width="40" />
+</a>
+
+<a href="https://obaidofficial.com" target="_blank">
+  <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/web.png" width="40" />
+</a>
+</div>
