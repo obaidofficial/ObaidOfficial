@@ -16,12 +16,13 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
 
 ### Tools
 
+<div style="display: flex; gap: 5px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/vscode.png" width="40" />
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/photoshop.png" width="40" />
 
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/premier.png" width="40" />
-
+</div>
 ### 🎨 Designing & Editing
 
 ![Design](https://skillicons.dev/icons?i=ps,figma,ai)
