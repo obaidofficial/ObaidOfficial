@@ -50,7 +50,7 @@ I'm a passionate Web Developer who loves building modern and scalable applicatio
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/copilot.png" width="40" />
 </div>
 
-### Platforms
+### CMS Platforms
 
 <div style="display: flex; gap: 15px;">
   <img src="https://github.com/obaidofficial/ObaidOfficial/blob/main/Icons/wp.png" width="40" />
